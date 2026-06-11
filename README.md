@@ -213,7 +213,7 @@ The dashboard empowers **data-driven decision-making** across academic, financia
 | 🗃️ Columns | 31 attributes |
 | 📅 Academic Year | 2024–25 |
 
-Full Dataset is available here ![](College_Student.xlsx) 
+> Full Dataset is available here [~College Student.xlsx~](College_Student.xlsx) 
 
 ## 🤝 Connect With Me
 
