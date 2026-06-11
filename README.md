@@ -212,7 +212,8 @@ The dashboard empowers **data-driven decision-making** across academic, financia
 | 📏 Rows | 2,000 student records |
 | 🗃️ Columns | 31 attributes |
 | 📅 Academic Year | 2024–25 |
-Full DataSet avilable here-- | ![](College_Student.xlsx) |
+
+Full Dataset is available here ![](College_Student.xlsx) 
 
 ## 🤝 Connect With Me
 
